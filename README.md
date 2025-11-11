@@ -6,8 +6,6 @@
 **This repository demonstrates unlocking a solenoid lock using face detection on an ESP32-CAM.**  
 The ESP32-CAM performs face detection locally; when a recognized face (or any detected face, depending on your firmware settings) is found, the board triggers a relay that energizes a solenoid lock (representing a door lock).
 
-> ⚠️ Safety note: This project uses mains-level batteries and electromechanical components. Follow safe wiring and insulation practices. See the **Safety** section.
-
 ---
 
 ## 🔎 What’s included
