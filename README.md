@@ -21,14 +21,14 @@ The ESP32-CAM performs face detection locally; when a recognized face (or any de
 ---
 
 ## 📦 Components (prototype)
-ESP32-CAM
-Relay Module (5V)
-Solenoid lock (12V)
-2 × LED (status indicators)
-Breadboard
-12V Battery
-7805 Voltage Regulator (12V → 5V)
-100µF 16V Capacitor (optional)
+- ESP32-CAM
+- Relay Module (5V)
+- Solenoid lock (12V)
+- 2 × LED (status indicators)
+- Breadboard
+- 12V Battery
+- 7805 Voltage Regulator (12V → 5V)
+- 100µF 16V Capacitor (optional)
 
 
 ---
