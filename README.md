@@ -77,19 +77,9 @@ The firmware logs detection events; when a face is detected the relay GPIO toggl
 - If you later add face recognition that stores templates, keep templates encrypted and be explicit about consent.
 - This demo is for educational/prototyping use only — do **not** use it in production security systems without appropriate safeguards, backups, and tested fail-safes.
 
----
 
-## 🛠️ What you can upload if code is private
-If parts of the code are proprietary, still include:
-- a `README-FIRMWARE.md` describing firmware modules and APIs
-- a `firmware-interface.txt` listing serial commands/JSON formats
-- circuit diagrams, photos, and demo videos
-- compiled binaries (if you prefer not to share source) — label clearly
-
----
-
-## ✅ Suggestions / Next steps
-- Add EMG or RFID fallback for multi-factor unlocking.
+## ✅ Next steps
+- Add RFID fallback for multi-factor unlocking.
 - Replace breadboard prototype with a proper MOSFET / driver circuit (for direct solenoid control) and a dedicated power regulator.
 - Add a webUI on ESP32 if you want remote status/management (remember auth + TLS concerns).
 
@@ -101,8 +91,8 @@ This repository is available under the **MIT License** — see `LICENSE` for det
 ---
 
 ## 👤 Author
-**Abdelkerim El Bani** — Final year / hobby projects.  
-Contact: add your preferred contact or GitHub profile link.
+**Abdelkerim El Bani**   
+Contact: abdelkerim.elbani@etudiant-enit.utm.tn
 
 ---
 
