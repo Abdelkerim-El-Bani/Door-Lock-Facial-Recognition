@@ -84,8 +84,8 @@ The firmware logs detection events; when a face is detected the relay GPIO toggl
 ---
 
 ## 📜 License
-This repository is available under the **MIT License** — see `LICENSE` for details.
-
+This project is distributed under the [MIT License](./LICENSE).  
+© 2025 **Abdelkerim El Bani** — All rights reserved.
 ---
 
 ## 👤 Author
