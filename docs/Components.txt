@@ -1,0 +1,9 @@
+ESP32-CAM (AI-Thinker or compatible)
+Relay Module (5V)
+Solenoid lock (12V)
+2 × LEDs (status indicators) + appropriate resistors (220 Ω)
+Breadboard / jumper wires
+12V battery (matching solenoid spec)
+7805 voltage regulator (12V → 5V)
+100 µF, 16V electrolytic capacitor (optional)
+Misc: perfboard / connectors, screw terminals
